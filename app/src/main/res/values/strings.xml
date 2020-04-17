@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">ColorSelector</string>
+  <string name="mvpText">Model-View-Presenter</string>
+  <string name="mvvmText">Model-View-ViewModel</string>
+  <string name="changeColor">Change color</string>
+</resources>
